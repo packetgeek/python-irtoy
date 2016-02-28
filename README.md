@@ -1,3 +1,5 @@
+Forked from https://github.com/nullEuro/python-irtoy  Here for my own use/modification/entertainment.
+
 What this is
 ============
 A command-line driver/tool for the USB IR-Toy, written in python.
